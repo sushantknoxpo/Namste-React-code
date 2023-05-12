@@ -15,7 +15,7 @@
 - it stands for npm initialize and also -y means yes for all options
 - Need of npm: because our react app comes with alot of powers to use them We need npm because while we build our app we need alot of other powers like minify the - code in our app, which comes with npm or yarn 
 
-### Parcel : Like CRA or Vite
+### Parcel : Like CRA or Vite > 
 - "npm install -D parcel": > -D if want the thing only in our development phase ; Dev dependencies
 
 - #### Package.lock.json : 
