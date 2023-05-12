@@ -25,3 +25,4 @@ its an important file you never keep in git-ignore, it cause such kind of mistak
 
 - #### Package.json : 
 we can use "^2.88.2" this (^) is a caret which automatically update the version of existing app
+npx parcel index.html > npx means execute
