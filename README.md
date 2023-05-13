@@ -26,3 +26,24 @@ its an important file you never keep in git-ignore, it cause such kind of mistak
 - #### Package.json : 
 we can use "^2.88.2" this (^) is a caret which automatically update the version of existing app
 npx parcel index.html > npx means execute
+- ### Parcel Feature :
+ - Created A Server
+ - HMR - Hot Module Replacement
+ - File Watcher algorithm - C++
+ - BUNDLING
+ - MINIFY
+ - Cleaning our Code
+ - Dev and Production Build
+ - Super Fast build algorithm
+ - Image Optimization
+ - Caching while development
+ - Compression
+ - Compatible with older version of browser
+ - HTTPS on dev
+ - port Number
+ - Consistent Hashing Algorithm
+ - Zero Config
+ - Tree shaking
+ -
+ -
+ - Transitive Dependencies
